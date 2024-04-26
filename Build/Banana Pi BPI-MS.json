@@ -1,0 +1,16 @@
+{
+"companyName": "GT-Tech",
+"productName": "Banana Pi BPI-MS",
+"productVersion": "0.1",
+"dataUrl": "Banana Pi BPI-MS.data.unityweb",
+"wasmCodeUrl": "Banana Pi BPI-MS.wasm.code.unityweb",
+"wasmFrameworkUrl": "Banana Pi BPI-MS.wasm.framework.unityweb",
+"graphicsAPI": ["WebGL 2.0","WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Dark",
+"backgroundColor": "#000000",
+"cacheControl": {"default": "must-revalidate"},
+"developmentBuild": false,
+"multithreading": false,
+"unityVersion": "2019.4.10f1"
+}
